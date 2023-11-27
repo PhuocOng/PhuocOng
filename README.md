@@ -1,9 +1,6 @@
 # Hi, I'm Peter Ong :wave:
 
-Software engineering student focusing on full-stack software development cover backend and infrastructure
-
-Interested in building fun, interactive, and beautiful experiences  
-(front-end/graphics/games/VR/creative coding).  
+Software Engineering student Focusing On Full-Stack Software Development Cover Backend And Infrastructure
 
 ## Life
 

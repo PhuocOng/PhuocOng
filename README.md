@@ -6,7 +6,7 @@ Software Engineering student Focusing On Full-Stack Software Development Cover B
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: Computer Science + Mathematics @ [**DePauw University**][[ur](https://www.depauw.edu/)]   
+:shipit: Computer Science + Mathematics @ [**DePauw University**][ur]
 :shipit: Software Engineer Intern @ [**NolymitAI**][taperk]  
 :shipit: Software Engineer Intern @ [**Unitech**][roclab]  
 :shipit: Vice President @ [**International Computer Science Association at DePauw**][roclab]  

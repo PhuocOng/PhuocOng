@@ -7,9 +7,9 @@ Software Engineering Student Focusing On Full-Stack Software Development Cover B
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
 - :shipit: Computer Science + Mathematics @ [**DePauw University**][dp]
+- - :shipit: Software Engineer Intern @ [**Meta**][microsoft]
 - :shipit: Software Engineer Intern @ [**Meta**][meta]
 - :shipit: Software Engineer Intern @ [**NolymitAI**][nolymitai]
-- :shipit: Software Engineer Intern @ [**Unitech**][unitech]
 - :shipit: Vice President @ [**International Computer Science Association at DePauw**][icsa]
 
 
@@ -20,6 +20,7 @@ Software Engineering Student Focusing On Full-Stack Software Development Cover B
 [unitech]: https://unitech.vn/
 [icsa]: https://www.instagram.com/icsa_depauw/
 [meta]: https://about.meta.com/
+[microsoft]: https://www.microsoft.com/en-us/
 
 ## Skills
 
